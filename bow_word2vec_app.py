@@ -1,5 +1,4 @@
 import streamlit as st
-import scipy
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction.text import CountVectorizer
